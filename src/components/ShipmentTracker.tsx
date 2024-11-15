@@ -111,7 +111,7 @@ const ShipmentTracker = () => {
                 setHasSearched(false);
               }}
               onKeyPress={handleKeyPress}
-              placeholder="Enter reference number (e.g., REF789AU)"
+              placeholder="Enter reference number (e.g., REF123AU)"
               className="flex-1 p-2 border rounded"
             />
             <button
